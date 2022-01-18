@@ -2,6 +2,11 @@
 	"manifest_version": 3,
 	"name": "NFT To Beanie Baby",
 	"version": "1.0",
+  "icons": {
+    "16": "icons/nft-2-bb-16.png",
+    "48": "icons/nft-2-bb-48.png",
+    "128": "icons/nft-2-bb-128.png"
+  },
 	"description": "Replaces the text 'NFT' with 'Beanie Baby'.",
 	"content_scripts":
 	[
