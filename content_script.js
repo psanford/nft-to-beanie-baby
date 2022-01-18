@@ -46,6 +46,8 @@ function handleText(textNode)
   v = v.replace(/\bNon-Fungible Token\b/g, "Non-Fungible Baby");
   v = v.replace(/\bNon-Fungible token\b/g, "Non-Fungible baby");
   v = v.replace(/\bnon-fungible token\b/g, "non-fungible baby");
+  v = v.replace(/\bNon-fungible tokens\b/g, "Non-fungible babies");
+  v = v.replace(/\bnon-fungible tokens\b/g, "non-fungible babies");
 
 	textNode.nodeValue = v;
 }
