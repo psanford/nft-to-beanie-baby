@@ -1,6 +1,10 @@
 # NFT To Beanie Baby
 
-Chrome extension that replaces 'NFT' with 'Beanie Baby'.
+Chrome and Firefox extension that replaces 'NFT' with 'Beanie Baby'.
+
+
+- [Install in Firefox](https://addons.mozilla.org/en-US/firefox/addon/nft-to-beanie-baby/)
+
 
 ## Screenshots
 
